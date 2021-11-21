@@ -1,2 +1,2 @@
 # NotScript
-My NotScript dump
+personal script dump
